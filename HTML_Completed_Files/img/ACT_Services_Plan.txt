@@ -1,0 +1,35 @@
+Client -> Bootstrap(HTML,CSS,JS) , JQuery , fontawesome
+Server -> Node JS , Express JS
+Database -> Mongo DB
+Project Creation -> Express generator Tool
+Template Engine -> EJS
+Modules -> body-parser , mongodb , nodemon
+Application -> ACT Services Application
+                -> Complaints -> 
+				-> Fetch complaints and display
+				
+Project Creation
+----------------
+1) npm install -g express-generator
+
+2) express --view=ejs 17_ACT_Services_App
+
+3)	cd 17_ACT_Services_App
+    npm install
+
+4) npm install body-parser --save
+   npm install mongodb --save
+
+5) Modify the files for Express Generator
+   start the server using "npm start"
+
+6) Setup Bootstrap & Font Awesome
+
+7) Setup application Routing with express JS
+
+8) Form Submission logic with body-parser
+
+9) setup Mongo DB database connections
+
+10) Data Storage to Database and fetch from Database
+				
